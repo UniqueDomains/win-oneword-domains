@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .WIN one-word domains still available to buy.
 
-This dataset contains 4,490 .WIN one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,489 .WIN one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.WIN one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=win-oneword-domains&utm_content=description.top) (4,493) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -21,7 +21,7 @@ If you want to search & filters the complete database of [.WIN one word domains]
 
 | Domain         | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
 | -------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
-| aaron.win      | available | 88       | 32%    | 5      |           |         |         |
+| aaron.win      | premium   | 88       | 32%    | 5      |           |         |         |
 | abactinal.win  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.win      | available | 43       | 2%     | 5      |           |         |         |
 | abandoned.win  | available | 58       | 7%     | 9      |           |         |         |
@@ -44,7 +44,7 @@ If you want to search & filters the complete database of [.WIN one word domains]
 | abhorrent.win  | available | 54       | 3%     | 9      |           |         |         |
 | abiding.win    | available | 106      | 5%     | 7      |           |         |         |
 | abient.win     | available | 54       | 1%     | 6      |           |         |         |
-| abit.win       | available | 66       | 16%    | 5      |           |         |         |
+| abit.win       | premium   | 66       | 16%    | 5      |           |         |         |
 | abject.win     | available | 94       | 8%     | 6      |           |         |         |
 | abkhas.win     | available | 68       | 1%     | 6      |           |         |         |
 | abkhasian.win  | available | 78       | 1%     | 9      |           |         |         |
