@@ -78,10 +78,10 @@ print(df.head())
 | athletics.win  | premium   | $455      | $65           | 69             | 52     | 9      | namecheap                                                 |
 | academic.win   | available | $9.98     | —             | 96             | 21     | 8      | namecheap                                                 |
 | smart.win      | resell    | —         | —             | 74             | 56     | 5      | Dynadot Inc                                               |
-| clear.win      | premium   | $437.50   | $62.50        | 90             | 49     | 5      | name.com                                                  |
+| simple.win     | premium   | $437.50   | $62.50        | 128            | 49     | 6      | name.com                                                  |
 | driving.win    | available | $9.98     | —             | 90             | 21     | 7      | namecheap                                                 |
 | shop.win       | resell    | —         | —             | 73             | 54     | 4      | NameCheap, Inc.                                           |
-| simple.win     | premium   | $437.50   | $62.50        | 128            | 48     | 6      | name.com                                                  |
+| clear.win      | premium   | $437.50   | $62.50        | 90             | 49     | 5      | name.com                                                  |
 | abundant.win   | available | $9.98     | —             | 80             | 21     | 8      | namecheap                                                 |
 | one.win        | resell    | —         | —             | 132            | 50     | 3      | Dynadot Inc                                               |
 
