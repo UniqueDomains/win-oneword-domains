@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .win one-word domains from Unique 
 
 **Public extract:** 8,978 rows · **Live catalog:** 8,978 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/win`  
 **Best for:** founders, investors, studios
 
@@ -70,10 +70,10 @@ print(df.head())
 | remedial.win   | available | $9.98     | —             | 86             | 24     | 8      | namecheap                                                 |
 | solo.win       | resell    | —         | —             | 116            | 68     | 4      | Porkbun                                                   |
 | nationwide.win | premium   | $437.50   | $62.50        | 76             | 66     | 10     | name.com                                                  |
-| accessible.win | available | $9.98     | —             | 78             | 22     | 10     | namecheap                                                 |
+| allied.win     | available | $9.98     | —             | 74             | 23     | 6      | namecheap                                                 |
 | blue.win       | resell    | —         | —             | 92             | 58     | 4      | Porkbun                                                   |
 | seventeen.win  | premium   | $437.50   | $62.50        | 84             | 62     | 9      | name.com                                                  |
-| allied.win     | available | $9.98     | —             | 74             | 22     | 6      | namecheap                                                 |
+| accessible.win | available | $9.98     | —             | 78             | 22     | 10     | namecheap                                                 |
 | ace.win        | resell    | —         | —             | 88             | 58     | 3      | Chengdu West Dimension Digital Technology Co., Ltd.       |
 | athletics.win  | premium   | $455      | $65           | 69             | 52     | 9      | namecheap                                                 |
 | academic.win   | available | $9.98     | —             | 96             | 21     | 8      | namecheap                                                 |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .WIN One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .WIN One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
