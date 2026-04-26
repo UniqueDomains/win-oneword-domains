@@ -1,22 +1,22 @@
-# Available .WIN One-Word Domains (8,978)
+# Available .WIN One-Word Domains (11,453)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-8%2C978%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C978%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C453%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .win one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .win one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **11,453 domains** on the canonical page below.
 
-**Public extract:** 8,978 rows · **Live catalog:** 8,978 domains
+**Public extract:** 1,000 rows · **Live catalog:** 11,453 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/win`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .WIN one-word domain c
 
 ### Files
 
-- `win.csv` — public CSV extract (8,978 rows)
-- `win.json` — public JSON extract (8,978 rows)
+- `win.csv` — public CSV extract (1,000 rows)
+- `win.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
-| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| building.win   | available | $9.98     | —             | 74             | 28     | 8      | namecheap                                                 |
-| taiwan.win     | resell    | —         | —             | 66             | 93     | 6      | Global Domains International, Inc. DBA DomainCostClub.com |
-| converse.win   | premium   | $437.50   | $62.50        | 64             | 73     | 8      | name.com                                                  |
-| remedial.win   | available | $9.98     | —             | 86             | 24     | 8      | namecheap                                                 |
-| solo.win       | resell    | —         | —             | 116            | 68     | 4      | Porkbun                                                   |
-| nationwide.win | premium   | $437.50   | $62.50        | 76             | 66     | 10     | name.com                                                  |
-| allied.win     | available | $9.98     | —             | 74             | 23     | 6      | namecheap                                                 |
-| blue.win       | resell    | —         | —             | 92             | 58     | 4      | Porkbun                                                   |
-| seventeen.win  | premium   | $437.50   | $62.50        | 84             | 62     | 9      | name.com                                                  |
-| accessible.win | available | $9.98     | —             | 78             | 22     | 10     | namecheap                                                 |
-| ace.win        | resell    | —         | —             | 88             | 58     | 3      | Chengdu West Dimension Digital Technology Co., Ltd.       |
-| athletics.win  | premium   | $455      | $65           | 69             | 52     | 9      | namecheap                                                 |
-| academic.win   | available | $9.98     | —             | 96             | 21     | 8      | namecheap                                                 |
-| smart.win      | resell    | —         | —             | 74             | 56     | 5      | Dynadot Inc                                               |
-| simple.win     | premium   | $437.50   | $62.50        | 128            | 49     | 6      | name.com                                                  |
-| driving.win    | available | $9.98     | —             | 90             | 21     | 7      | namecheap                                                 |
-| shop.win       | resell    | —         | —             | 73             | 54     | 4      | NameCheap, Inc.                                           |
-| clear.win      | premium   | $437.50   | $62.50        | 90             | 49     | 5      | name.com                                                  |
-| abundant.win   | available | $9.98     | —             | 80             | 21     | 8      | namecheap                                                 |
-| one.win        | resell    | —         | —             | 132            | 50     | 3      | Dynadot Inc                                               |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
+| products.win      | available | $9.98     | —             | 60             | 23     | 8      | namecheap       |
+| today.win         | resell    | —         | —             | 82             | 35     | 5      | Spaceship, Inc. |
+| travelers.win     | premium   | $437.50   | —             | 58             | 61     | 9      | name.com        |
+| resources.win     | available | $9.98     | —             | 58             | 21     | 9      | namecheap       |
+| bros.win          | resell    | —         | —             | 58             | 19     | 4      | Porkbun         |
+| RedSox.win        | premium   | $490      | $70           | 72             | 60     | 7      | namecheap       |
+| ratings.win       | available | $9.98     | —             | 53             | 19     | 7      | namecheap       |
+| fruits.win        | resell    | —         | —             | 74             | 17     | 6      | Dynadot Inc     |
+| keepthechange.win | premium   | $437.50   | —             | 46             | 59     | 15     | name.com        |
+| weddings.win      | available | $5.25     | $6.25         | 64             | 18     | 8      | namesilo        |
+| Tools.win         | premium   | $490      | $70           | 56             | 40     | 5      | namecheap       |
+| prints.win        | available | $9.98     | —             | 54             | 18     | 6      | namecheap       |
+| homes.win         | premium   | $437.50   | —             | 86             | 34     | 5      | name.com        |
+| makes.win         | available | $9.98     | —             | 66             | 17     | 5      | namecheap       |
+| teams.win         | premium   | $437.50   | —             | 62             | 32     | 5      | name.com        |
+| oaks.win          | available | $5.25     | $6.25         | 53             | 16     | 4      | namesilo        |
+| solutions.win     | premium   | $437.50   | —             | 56             | 31     | 9      | name.com        |
+| underwater.win    | available | $9.98     | —             | 64             | 15     | 11     | namecheap       |
+| videos.win        | premium   | $437.50   | —             | 52             | 30     | 6      | name.com        |
+| dates.win         | available | $9.98     | —             | 56             | 15     | 5      | namecheap       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 8,978-row public sample | 8,978 live domains                               |
+| 1,000-row public sample | 11,453 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .WIN One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .WIN One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
