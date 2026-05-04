@@ -1,10 +1,10 @@
-# Available .WIN One-Word Domains (11,453)
+# Available .WIN One-Word Domains (11,830)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C453%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C830%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .win one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **11,453 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **11,830 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,453 domains
+**Public extract:** 1,000 rows · **Live catalog:** 11,830 domains · **Median ask:** $158.73 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-04-26  
+**Last updated:** 2026-05-04  
 **Canonical page:** `https://unique.domains/domains/tld/win`  
 **Best for:** founders, investors, studios
 
@@ -64,26 +64,26 @@ print(df.head())
 
 | domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
 | ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
+| Acup.win          | available | $9.98     | —             | 80             | 5      | 5      | namecheap       |
+| barup.win         | available | $9.98     | —             | 82             | 2      | 6      | namecheap       |
+| rumcake.win       | available | $9.98     | —             | 81             | 3      | 8      | namecheap       |
+| beawake.win       | available | $9.98     | —             | 84             | 3      | 8      | namecheap       |
+| chaitea.win       | available | $9.98     | —             | 86             | 3      | 8      | namecheap       |
+| midautumn.win     | available | $9.98     | —             | 80             | 2      | 9      | namecheap       |
+| becalled.win      | available | $5.25     | $6.25         | 86             | 2      | 9      | namesilo        |
+| turninto.win      | available | $9.98     | —             | 86             | 2      | 9      | namecheap       |
 | products.win      | available | $9.98     | —             | 60             | 23     | 8      | namecheap       |
 | today.win         | resell    | —         | —             | 82             | 35     | 5      | Spaceship, Inc. |
 | travelers.win     | premium   | $437.50   | —             | 58             | 61     | 9      | name.com        |
 | resources.win     | available | $9.98     | —             | 58             | 21     | 9      | namecheap       |
 | bros.win          | resell    | —         | —             | 58             | 19     | 4      | Porkbun         |
 | RedSox.win        | premium   | $490      | $70           | 72             | 60     | 7      | namecheap       |
-| ratings.win       | available | $9.98     | —             | 53             | 19     | 7      | namecheap       |
+| Tshirts.win       | available | $9.98     | —             | 70             | 20     | 8      | namecheap       |
 | fruits.win        | resell    | —         | —             | 74             | 17     | 6      | Dynadot Inc     |
 | keepthechange.win | premium   | $437.50   | —             | 46             | 59     | 15     | name.com        |
-| weddings.win      | available | $5.25     | $6.25         | 64             | 18     | 8      | namesilo        |
+| ratings.win       | available | $9.98     | —             | 53             | 19     | 7      | namecheap       |
 | Tools.win         | premium   | $490      | $70           | 56             | 40     | 5      | namecheap       |
-| prints.win        | available | $9.98     | —             | 54             | 18     | 6      | namecheap       |
-| homes.win         | premium   | $437.50   | —             | 86             | 34     | 5      | name.com        |
-| makes.win         | available | $9.98     | —             | 66             | 17     | 5      | namecheap       |
-| teams.win         | premium   | $437.50   | —             | 62             | 32     | 5      | name.com        |
-| oaks.win          | available | $5.25     | $6.25         | 53             | 16     | 4      | namesilo        |
-| solutions.win     | premium   | $437.50   | —             | 56             | 31     | 9      | name.com        |
-| underwater.win    | available | $9.98     | —             | 64             | 15     | 11     | namecheap       |
-| videos.win        | premium   | $437.50   | —             | 52             | 30     | 6      | name.com        |
-| dates.win         | available | $9.98     | —             | 56             | 15     | 5      | namecheap       |
+| weddings.win      | available | $5.25     | $6.25         | 64             | 18     | 8      | namesilo        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 11,453 live domains                              |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 11,830 live domains                        |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+This selection is entirely made up of .win domains, which makes extension fit the first screening step. Some names are short and brandable, such as Acup.win or barup.win. Others are more literal or phrase-led, such as dogsit.win, watches.win, and getlife.win. With a median ask of 158.73, many of these domains sit in a budget range that can appeal to buyers who want clear pricing. The main question is not just whether the word is good, but whether the .win ending strengthens the meaning, weakens trust, or narrows who would realistically use the name.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- Check whether the keyword works naturally with .win
+- Prioritize clean spelling and fast verbal recall
+- Use price discipline around the 158.73 median ask
+- Avoid names where .win creates a forced message
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .WIN One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .WIN One-Word Domains*. Version 2026-05-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
