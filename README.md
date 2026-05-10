@@ -73,17 +73,17 @@ print(df.head())
 | becalled.win      | available | $5.25     | $6.25         | 86             | 2      | 9      | namesilo        |
 | turninto.win      | available | $9.98     | —             | 86             | 2      | 9      | namecheap       |
 | products.win      | available | $9.98     | —             | 60             | 23     | 8      | namecheap       |
-| today.win         | resell    | —         | —             | 82             | 35     | 5      | Spaceship, Inc. |
+| that.win          | resell    | —         | —             | 78             | 38     | 4      | Porkbun         |
 | travelers.win     | premium   | $437.50   | —             | 58             | 61     | 9      | name.com        |
 | resources.win     | available | $9.98     | —             | 58             | 21     | 9      | namecheap       |
-| bros.win          | resell    | —         | —             | 58             | 19     | 4      | Porkbun         |
+| today.win         | resell    | —         | —             | 82             | 35     | 5      | Spaceship, Inc. |
 | RedSox.win        | premium   | $490      | $70           | 72             | 60     | 7      | namecheap       |
 | Tshirts.win       | available | $9.98     | —             | 70             | 20     | 8      | namecheap       |
-| fruits.win        | resell    | —         | —             | 74             | 17     | 6      | Dynadot Inc     |
+| excel.win         | resell    | —         | —             | 80             | 29     | 5      | Porkbun         |
 | keepthechange.win | premium   | $437.50   | —             | 46             | 59     | 15     | name.com        |
 | ratings.win       | available | $9.98     | —             | 53             | 19     | 7      | namecheap       |
+| bros.win          | resell    | —         | —             | 58             | 19     | 4      | Porkbun         |
 | Tools.win         | premium   | $490      | $70           | 56             | 40     | 5      | namecheap       |
-| weddings.win      | available | $5.25     | $6.25         | 64             | 18     | 8      | namesilo        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
