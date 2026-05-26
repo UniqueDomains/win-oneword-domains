@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .win one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 11,837 domains · **Median ask:** $158.73 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-26  
 **Canonical page:** `https://unique.domains/domains/tld/win`  
 **Best for:** founders, investors, studios
 
@@ -66,19 +66,19 @@ print(df.head())
 | ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
 | Acup.win          | available | $9.98     | —             | 80             | 5      | 5      | namecheap       |
 | barup.win         | available | $9.98     | —             | 82             | 2      | 6      | namecheap       |
-| rumcake.win       | available | $9.98     | —             | 81             | 3      | 8      | namecheap       |
+| rumcake.win       | available | $9.98     | —             | 81             | 2      | 8      | namecheap       |
 | beawake.win       | available | $9.98     | —             | 84             | 3      | 8      | namecheap       |
 | chaitea.win       | available | $9.98     | —             | 86             | 3      | 8      | namecheap       |
 | midautumn.win     | available | $9.98     | —             | 80             | 2      | 9      | namecheap       |
 | becalled.win      | available | $5.25     | $6.25         | 86             | 2      | 9      | namesilo        |
-| turninto.win      | available | $9.98     | —             | 86             | 2      | 9      | namecheap       |
+| turninto.win      | available | $9.98     | —             | 86             | 3      | 9      | namecheap       |
 | products.win      | available | $9.98     | —             | 60             | 23     | 8      | namecheap       |
 | that.win          | resell    | —         | —             | 78             | 38     | 4      | Porkbun         |
 | travelers.win     | premium   | $437.50   | —             | 58             | 61     | 9      | name.com        |
-| resources.win     | available | $9.98     | —             | 58             | 21     | 9      | namecheap       |
+| Tshirts.win       | available | $9.98     | —             | 70             | 20     | 8      | namecheap       |
 | today.win         | resell    | —         | —             | 82             | 35     | 5      | Spaceship, Inc. |
 | RedSox.win        | premium   | $490      | $70           | 72             | 60     | 7      | namecheap       |
-| Tshirts.win       | available | $9.98     | —             | 70             | 20     | 8      | namecheap       |
+| resources.win     | available | $9.98     | —             | 58             | 20     | 9      | namecheap       |
 | excel.win         | resell    | —         | —             | 80             | 29     | 5      | Porkbun         |
 | keepthechange.win | premium   | $437.50   | —             | 46             | 59     | 15     | name.com        |
 | ratings.win       | available | $9.98     | —             | 53             | 19     | 7      | namecheap       |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .WIN One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .WIN One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
