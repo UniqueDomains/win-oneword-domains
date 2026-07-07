@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .win one-word domains from 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **11,837 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,837 domains · **Median ask:** $158.73 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 11,837 domains · **Median ask:** $221.35 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/win`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/win`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .WIN one-word domain c
 
 ### Files
 
-- `win.csv` — public CSV extract (1,000 rows)
-- `win.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `win.csv`, public CSV extract (1,000 rows)
+- `win.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| Acup.win          | available | $9.98     | —             | 80             | 5      | 5      | namecheap       |
-| barup.win         | available | $9.98     | —             | 82             | 2      | 6      | namecheap       |
-| rumcake.win       | available | $9.98     | —             | 81             | 2      | 8      | namecheap       |
-| beawake.win       | available | $9.98     | —             | 84             | 3      | 8      | namecheap       |
-| chaitea.win       | available | $9.98     | —             | 86             | 3      | 8      | namecheap       |
-| midautumn.win     | available | $9.98     | —             | 80             | 2      | 9      | namecheap       |
-| becalled.win      | available | $5.25     | $6.25         | 86             | 2      | 9      | namesilo        |
-| turninto.win      | available | $9.98     | —             | 86             | 3      | 9      | namecheap       |
-| products.win      | available | $9.98     | —             | 60             | 23     | 8      | namecheap       |
-| that.win          | resell    | —         | —             | 78             | 38     | 4      | Porkbun         |
-| travelers.win     | premium   | $437.50   | —             | 58             | 61     | 9      | name.com        |
-| Tshirts.win       | available | $9.98     | —             | 70             | 20     | 8      | namecheap       |
-| today.win         | resell    | —         | —             | 82             | 35     | 5      | Spaceship, Inc. |
-| RedSox.win        | premium   | $490      | $70           | 72             | 60     | 7      | namecheap       |
-| resources.win     | available | $9.98     | —             | 58             | 20     | 9      | namecheap       |
-| excel.win         | resell    | —         | —             | 80             | 29     | 5      | Porkbun         |
-| keepthechange.win | premium   | $437.50   | —             | 46             | 59     | 15     | name.com        |
-| ratings.win       | available | $9.98     | —             | 53             | 19     | 7      | namecheap       |
-| bros.win          | resell    | —         | —             | 58             | 19     | 4      | Porkbun         |
-| Tools.win         | premium   | $490      | $70           | 56             | 40     | 5      | namecheap       |
+| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| died.win    | available | $5.25     | $6.25         | medium         | low    | 4      | namesilo                                                  |
+| demand.win  | resell    | $9.98     | —             | high           | low    | 6      | Dynadot Inc                                               |
+| air.win     | premium   | $625      | —             | high           | medium | 3      | name.com                                                  |
+| Fran.win    | available | $5.25     | $6.25         | medium         | low    | 4      | namesilo                                                  |
+| bell.win    | resell    | —         | —             | high           | low    | 4      | Porkbun                                                   |
+| Ava.win     | premium   | $625      | —             | high           | medium | 3      | name.com                                                  |
+| neck.win    | available | $5.25     | $6.25         | high           | low    | 4      | namesilo                                                  |
+| block.win   | resell    | —         | —             | medium         | low    | 5      | Global Domains International, Inc. DBA DomainCostClub.com |
+| axe.win     | premium   | $625      | —             | medium         | low    | 3      | name.com                                                  |
+| tues.win    | available | $5.25     | $6.25         | high           | low    | 4      | namesilo                                                  |
+| drone.win   | resell    | —         | —             | high           | medium | 5      | Chengdu West Dimension Digital Technology Co., Ltd.       |
+| des.win     | premium   | $625      | —             | high           | low    | 3      | name.com                                                  |
+| were.win    | available | $5.25     | $6.25         | high           | low    | 4      | namesilo                                                  |
+| smart.win   | resell    | —         | —             | high           | medium | 5      | Dynadot Inc                                               |
+| ear.win     | premium   | $625      | —             | high           | low    | 3      | name.com                                                  |
+| wool.win    | available | $5.25     | $6.25         | medium         | low    | 4      | namesilo                                                  |
+| spend.win   | resell    | —         | —             | high           | low    | 5      | NameSilo, LLC                                             |
+| end.win     | premium   | $625      | —             | high           | low    | 3      | name.com                                                  |
+| beads.win   | available | $5.25     | $6.25         | high           | low    | 5      | namesilo                                                  |
+| kitchen.win | resell    | —         | —             | medium         | low    | 7      | Porkbun                                                   |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely made up of .win domains, which makes extension fit the first screening step. Some names are short and brandable, such as Acup.win or barup.win. Others are more literal or phrase-led, such as dogsit.win, watches.win, and getlife.win. With a median ask of 158.73, many of these domains sit in a budget range that can appeal to buyers who want clear pricing. The main question is not just whether the word is good, but whether the .win ending strengthens the meaning, weakens trust, or narrows who would realistically use the name.
+This list is built entirely from one-word .win domain names, currently numbering 11,837 with a median ask near $221. Names range from everyday phrases and lifestyle terms to short, dictionary-style words that read cleanly in a single syllable or two. Because .win carries an inherent 'win' association, many entries lean toward gaming, promotions, and contest-style use cases, while others work as general-purpose brandable names. When comparing names in this set, weigh length, spelling ease, and pricing together rather than any single factor alone.
 
-- Check whether the keyword works naturally with .win
-- Prioritize clean spelling and fast verbal recall
-- Use price discipline around the 158.73 median ask
-- Avoid names where .win creates a forced message
+- 11,837 one-word .win domain names in this selection
+- Median ask near $221 across the list
+- Short, brandable single-word names for quick recall
+- Weigh price, renewal cost, and brandability side by side
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .WIN One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .WIN One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
