@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .win one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 28,550 domains · **Median ask:** $153.26 · **High-demand under $2,500:** 18
 
-**Last updated:** 2026-09-20
+**Last updated:** 2026-09-21
 **Canonical page:** `https://unique.domains/domains/tld/win`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
-| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| dewy.win    | available | $5.25     | $6.25         | low            | low    | 4      | namesilo                                                  |
-| demand.win  | resell    | $9.98     | —             | high           | low    | 6      | Dynadot Inc                                               |
-| air.win     | premium   | $640      | $77.35        | medium         | low    | 3      | namesilo                                                  |
-| died.win    | available | $5.25     | $6.25         | medium         | low    | 4      | namesilo                                                  |
-| bell.win    | resell    | —         | —             | high           | low    | 4      | Porkbun                                                   |
-| ava.win     | premium   | $625      | —             | high           | medium | 3      | name.com                                                  |
-| foul.win    | available | $5.25     | $6.25         | medium         | low    | 4      | namesilo                                                  |
-| block.win   | resell    | —         | —             | medium         | low    | 5      | Global Domains International, Inc. DBA DomainCostClub.com |
-| axe.win     | premium   | $625      | —             | medium         | low    | 3      | name.com                                                  |
-| fran.win    | available | $5.25     | $6.25         | medium         | low    | 4      | namesilo                                                  |
-| drone.win   | resell    | —         | —             | high           | medium | 5      | Chengdu West Dimension Digital Technology Co., Ltd.       |
-| azo.win     | premium   | $625      | $81.25        | low            | low    | 3      | name.com                                                  |
-| neck.win    | available | $5.25     | $6.25         | high           | low    | 4      | namesilo                                                  |
-| smart.win   | resell    | —         | —             | high           | medium | 5      | Dynadot Inc                                               |
-| cxx.win     | premium   | $625      | $81.25        | low            | low    | 3      | name.com                                                  |
-| tues.win    | available | $5.25     | $6.25         | high           | low    | 4      | namesilo                                                  |
-| spend.win   | resell    | —         | —             | high           | low    | 5      | NameSilo, LLC                                             |
-| des.win     | premium   | $625      | —             | high           | low    | 3      | name.com                                                  |
-| were.win    | available | $5.25     | $6.25         | high           | low    | 4      | namesilo                                                  |
-| kitchen.win | resell    | —         | —             | medium         | low    | 7      | Porkbun                                                   |
+| domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| fun.win    | available | —         | —             | high           | medium | 3      | —                                                         |
+| smooth.win | premium   | $437.50   | —             | high           | low    | 6      | name.com                                                  |
+| less.win   | available | —         | —             | high           | low    | 4      | —                                                         |
+| dewy.win   | available | $5.25     | $6.25         | low            | low    | 4      | namesilo                                                  |
+| demand.win | resell    | $9.98     | —             | high           | low    | 6      | Dynadot Inc                                               |
+| air.win    | premium   | $640      | $77.35        | medium         | low    | 3      | namesilo                                                  |
+| died.win   | available | $5.25     | $6.25         | medium         | low    | 4      | namesilo                                                  |
+| bell.win   | resell    | —         | —             | high           | low    | 4      | Porkbun                                                   |
+| ava.win    | premium   | $625      | —             | high           | medium | 3      | name.com                                                  |
+| foul.win   | available | $5.25     | $6.25         | medium         | low    | 4      | namesilo                                                  |
+| block.win  | resell    | —         | —             | medium         | low    | 5      | Global Domains International, Inc. DBA DomainCostClub.com |
+| axe.win    | premium   | $625      | —             | medium         | low    | 3      | name.com                                                  |
+| fran.win   | available | $5.25     | $6.25         | medium         | low    | 4      | namesilo                                                  |
+| drone.win  | resell    | —         | —             | high           | medium | 5      | Chengdu West Dimension Digital Technology Co., Ltd.       |
+| azo.win    | premium   | $625      | $81.25        | low            | low    | 3      | name.com                                                  |
+| neck.win   | available | $5.25     | $6.25         | high           | low    | 4      | namesilo                                                  |
+| smart.win  | resell    | —         | —             | high           | medium | 5      | Dynadot Inc                                               |
+| cxx.win    | premium   | $625      | $81.25        | low            | low    | 3      | name.com                                                  |
+| tues.win   | available | $5.25     | $6.25         | high           | low    | 4      | namesilo                                                  |
+| spend.win  | resell    | —         | —             | high           | low    | 5      | NameSilo, LLC                                             |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .WIN One-Word Domains*. Version 2026-09-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .WIN One-Word Domains*. Version 2026-09-21. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
