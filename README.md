@@ -64,26 +64,26 @@ print(df.head())
 
 | domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
 | ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| dewy.win    | available | $5.25     | $6.25         | low            | low    | 4      | namesilo                                                  |
+| aery.win    | available | $5.25     | $6.25         | high           | low    | 4      | namesilo                                                  |
 | demand.win  | resell    | $9.98     | —             | high           | low    | 6      | Dynadot Inc                                               |
-| air.win     | premium   | $640      | $77.35        | medium         | low    | 3      | namesilo                                                  |
-| died.win    | available | $5.25     | $6.25         | medium         | low    | 4      | namesilo                                                  |
+| arc.win     | premium   | $625      | $81.25        | high           | medium | 3      | name.com                                                  |
+| dewy.win    | available | $5.25     | $6.25         | medium         | low    | 4      | namesilo                                                  |
 | bell.win    | resell    | —         | —             | high           | low    | 4      | Porkbun                                                   |
 | ava.win     | premium   | $625      | —             | high           | medium | 3      | name.com                                                  |
-| foul.win    | available | $5.25     | $6.25         | medium         | low    | 4      | namesilo                                                  |
-| block.win   | resell    | —         | —             | medium         | low    | 5      | Global Domains International, Inc. DBA DomainCostClub.com |
-| axe.win     | premium   | $625      | —             | medium         | low    | 3      | name.com                                                  |
-| fran.win    | available | $5.25     | $6.25         | medium         | low    | 4      | namesilo                                                  |
+| died.win    | available | $5.25     | $6.25         | high           | low    | 4      | namesilo                                                  |
+| rose.win    | resell    | —         | —             | high           | medium | 4      | TuringSign Inc. d/b/a Cosmotown                           |
+| axe.win     | premium   | $625      | —             | high           | low    | 3      | name.com                                                  |
+| flew.win    | available | $5.25     | $6.25         | high           | low    | 4      | namesilo                                                  |
+| block.win   | resell    | —         | —             | high           | low    | 5      | Global Domains International, Inc. DBA DomainCostClub.com |
+| azo.win     | premium   | $625      | $81.25        | medium         | low    | 3      | name.com                                                  |
+| foul.win    | available | $5.25     | $6.25         | high           | low    | 4      | namesilo                                                  |
 | drone.win   | resell    | —         | —             | high           | medium | 5      | Chengdu West Dimension Digital Technology Co., Ltd.       |
-| azo.win     | premium   | $625      | $81.25        | low            | low    | 3      | name.com                                                  |
-| neck.win    | available | $5.25     | $6.25         | high           | low    | 4      | namesilo                                                  |
-| smart.win   | resell    | —         | —             | medium         | low    | 5      | Dynadot Inc                                               |
-| cxx.win     | premium   | $625      | $81.25        | low            | low    | 3      | name.com                                                  |
-| tues.win    | available | $5.25     | $6.25         | high           | low    | 4      | namesilo                                                  |
+| bae.win     | premium   | $625      | —             | high           | low    | 3      | name.com                                                  |
+| fran.win    | available | $5.25     | $6.25         | high           | low    | 4      | namesilo                                                  |
 | spend.win   | resell    | —         | —             | high           | low    | 5      | NameSilo, LLC                                             |
-| des.win     | premium   | $625      | —             | high           | low    | 3      | name.com                                                  |
-| were.win    | available | $5.25     | $6.25         | high           | low    | 4      | namesilo                                                  |
-| kitchen.win | resell    | —         | —             | medium         | low    | 7      | Spaceship, Inc.                                           |
+| clv.win     | premium   | $625      | $81.25        | high           | low    | 3      | name.com                                                  |
+| lxxx.win    | available | $5.98     | $9.98         | medium         | low    | 4      | namecheap                                                 |
+| kitchen.win | resell    | —         | —             | high           | low    | 7      | Spaceship, Inc.                                           |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
