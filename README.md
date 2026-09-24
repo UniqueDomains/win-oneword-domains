@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .win one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 31,214 domains · **Median ask:** $156.22 · **High-demand under $2,500:** 16
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/tld/win`
 **Best for:** founders, investors, studios
 
@@ -77,7 +77,7 @@ print(df.head())
 | drone.win   | resell    | —         | —             | high           | medium | 5      | Chengdu West Dimension Digital Technology Co., Ltd.       |
 | azo.win     | premium   | $625      | $81.25        | low            | low    | 3      | name.com                                                  |
 | neck.win    | available | $5.25     | $6.25         | high           | low    | 4      | namesilo                                                  |
-| smart.win   | resell    | —         | —             | high           | medium | 5      | Dynadot Inc                                               |
+| smart.win   | resell    | —         | —             | medium         | low    | 5      | Dynadot Inc                                               |
 | cxx.win     | premium   | $625      | $81.25        | low            | low    | 3      | name.com                                                  |
 | tues.win    | available | $5.25     | $6.25         | high           | low    | 4      | namesilo                                                  |
 | spend.win   | resell    | —         | —             | high           | low    | 5      | NameSilo, LLC                                             |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .WIN One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .WIN One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
