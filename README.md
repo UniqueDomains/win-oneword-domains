@@ -1,10 +1,10 @@
-# Available .WIN One-Word Domains (23,722)
+# Available .WIN One-Word Domains (25,540)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-23%2C722%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-25%2C540%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .win one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **23,722 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **25,540 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 23,722 domains · **Median ask:** $228.50 · **High-demand under $2,500:** 36
+**Public extract:** 1,000 rows · **Live catalog:** 25,540 domains · **Median ask:** $229.88 · **High-demand under $2,500:** 41
 
-**Last updated:** 2026-09-28
+**Last updated:** 2026-09-29
 **Canonical page:** `https://unique.domains/domains/tld/win`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
-| ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| alto.win   | available | $5.25     | $6.25         | high           | low    | 4      | namesilo                                                  |
-| cyan.win   | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC                                          |
-| auc.win    | premium   | $640      | $77.35        | high           | low    | 3      | namesilo                                                  |
-| awry.win   | available | $5.25     | $6.25         | medium         | low    | 4      | namesilo                                                  |
-| door.win   | resell    | —         | —             | high           | low    | 4      | TuringSign Inc. d/b/a Cosmotown                           |
-| aus.win    | premium   | $517.70   | $67.48        | high           | low    | 3      | spaceship                                                 |
-| bede.win   | available | $5.25     | $6.25         | high           | low    | 4      | namesilo                                                  |
-| tour.win   | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC                                          |
-| ayr.win    | premium   | $640      | $77.35        | high           | low    | 3      | namesilo                                                  |
-| dyke.win   | available | $5.25     | $6.25         | medium         | low    | 4      | namesilo                                                  |
-| korea.win  | resell    | —         | —             | high           | high   | 5      | Global Domains International, Inc. DBA DomainCostClub.com |
-| bae.win    | premium   | $625      | —             | high           | low    | 3      | name.com                                                  |
-| gave.win   | available | $5.25     | $6.25         | medium         | low    | 4      | namesilo                                                  |
-| robin.win  | resell    | —         | —             | high           | low    | 5      | West263 International Limited                             |
-| bmi.win    | premium   | $640      | $77.35        | high           | medium | 3      | namesilo                                                  |
-| idly.win   | available | $5.25     | $6.25         | high           | low    | 4      | namesilo                                                  |
-| shoes.win  | resell    | —         | —             | high           | low    | 5      | Dynadot Inc                                               |
-| din.win    | premium   | $625      | $81.25        | medium         | low    | 3      | name.com                                                  |
-| jail.win   | available | $5.98     | $9.98         | high           | low    | 4      | namecheap                                                 |
-| gloria.win | resell    | —         | —             | high           | low    | 6      | —                                                         |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                       |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------- |
+| adobe.win        | premium   | $455      | $65           | high           | high   | 5      | namecheap                       |
+| moving.win       | available | $5.98     | $9.98         | high           | low    | 6      | namecheap                       |
+| door.win         | resell    | —         | —             | high           | low    | 4      | TuringSign Inc. d/b/a Cosmotown |
+| known.win        | premium   | $455      | $65           | high           | low    | 5      | namecheap                       |
+| return.win       | premium   | $455      | $65           | high           | low    | 6      | namecheap                       |
+| visible.win      | premium   | $448      | $53.92        | high           | low    | 7      | namesilo                        |
+| spicy.win        | premium   | $455      | $65           | high           | low    | 5      | namecheap                       |
+| meaningful.win   | premium   | $455      | $65           | high           | low    | 10     | namecheap                       |
+| sunday.win       | premium   | $437.50   | —             | high           | low    | 6      | name.com                        |
+| second.win       | premium   | $455      | $65           | high           | low    | 6      | namecheap                       |
+| participants.win | available | $5.25     | $6.25         | high           | low    | 12     | namesilo                        |
+| affluent.win     | premium   | $448      | $53.92        | high           | low    | 8      | namesilo                        |
+| thick.win        | available | $5.98     | $9.98         | high           | low    | 5      | namecheap                       |
+| behind.win       | available | $5.98     | $9.98         | high           | low    | 6      | namecheap                       |
+| alto.win         | available | $5.25     | $6.25         | high           | low    | 4      | namesilo                        |
+| cyan.win         | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC                |
+| auc.win          | premium   | $640      | $77.35        | high           | low    | 3      | namesilo                        |
+| awry.win         | available | $5.25     | $6.25         | medium         | low    | 4      | namesilo                        |
+| aus.win          | premium   | $517.70   | $67.48        | high           | low    | 3      | spaceship                       |
+| bede.win         | available | $5.25     | $6.25         | high           | low    | 4      | namesilo                        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 23,722 live domains                        |
+| 1,000-row public sample | 25,540 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 36 high-demand names under $2,500          |
+| Basic exported fields   | 41 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .WIN One-Word Domains*. Version 2026-09-28. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .WIN One-Word Domains*. Version 2026-09-29. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
